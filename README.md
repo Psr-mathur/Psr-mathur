@@ -47,3 +47,11 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/prakash-kumar-a9685a190/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/prakashkumarggh" target="_blank">
+    <img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210419113249/gfg-new-logo-min.png' height='30px'  style="margin-bottom: 5px;" />
+  </a>
+</div

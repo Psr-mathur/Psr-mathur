@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-  <img src='https://ik.imagekit.io/psrmathur/result.gif#gh-light-mode-only'/>
+<!--   <img src='https://ik.imagekit.io/psrmathur/result.gif#gh-light-mode-only'/> -->
   <img src="https://ik.imagekit.io/psrmathur/resultdrk.gif#gh-dark-mode-only"/>
 </div>
 

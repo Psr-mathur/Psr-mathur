@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center'>
-<!--   <img src='https://ik.imagekit.io/psrmathur/result.gif#gh-light-mode-only'/> -->
+<!-- <div align='center'>
   <img src="https://ik.imagekit.io/psrmathur/resultdrk.gif#gh-dark-mode-only"/>
-</div>
+</div> -->
 
 <div align='center'>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW8xNXV4dHZuZGJna3JobmYweHRjbWV3dDV0ZGZzM2hhaGFqZWZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpVUsAXLebHb8c/giphy.gif" width="480" height="380" frameBorder="0" class="giphy-embed"></img>
@@ -25,34 +24,8 @@ Here are some ideas to get you started:
 
 # <div align="center">Developer Full Stack / React - NodeJS</div>  
 
-<table align='center'>
-  <tr>
-    <td valign="top" width="">
-      <h4>Frontend</h4>  
-      <div align="center">   
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="TypeScript" height="50" />   
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="TypeScript" height="50" />   
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="TypeScript" height="50" />   
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Backend</h4>  
-      <div align="center">  
-      <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-      <img style="margin: 20px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Node.js" height="50" />  
-      <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-      </div>
-    </td>
-  </tr>
-</table> 
 <div align="center">
   <a href="https://www.linkedin.com/in/prakash-kumar-a9685a190/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/prakashkumarggh" target="_blank">
-    <img src='https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210419113249/gfg-new-logo-min.png' height='30px'  style="margin-bottom: 5px;" />
   </a>
 </div

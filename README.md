@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img src="https://ik.imagekit.io/psrmathur/resultdrk.gif#gh-dark-mode-only"/>
 </div> -->
 
-<div align='center'>
+<!-- <div align='center'>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW8xNXV4dHZuZGJna3JobmYweHRjbWV3dDV0ZGZzM2hhaGFqZWZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpVUsAXLebHb8c/giphy.gif" width="480" height="380" frameBorder="0" class="giphy-embed"></img>
-</div>
+</div>  -->
 
 # <div align="center">Developer Full Stack / React - NodeJS</div>  
 
